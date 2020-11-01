@@ -19,3 +19,7 @@ IG crawler with account/tag/story in Python.
 
 ## Reference
 - Algorithm is based on ChiaYu-Chiang/IG-crawler.
+
+## Send Me Failure Cases and Feedback
+- My email: jerry840622@gmail.com
+- If the code or my English grammar has any problems, please connect me, thank you everyone.
