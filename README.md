@@ -16,3 +16,6 @@ IG crawler with account/tag/story in Python.
 ## Notes
 - In IG_story_crawler.py, about get_cookie function, ChromeOptions.add_argument('--headless') can not be hidden.
 - IG_tag_crawler.py only download in image.
+
+## Reference
+- Algorithm is based on ChiaYu-Chiang/IG-crawler.
